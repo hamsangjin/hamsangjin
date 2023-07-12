@@ -1,6 +1,6 @@
 <!-- 머리말 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome%20SangJin's%20GitHub&animation=fadeIn&fontSize=50)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome%20SangJin's%20GitHub&animation=fadeIn&fontSize=50)
+-->
 
 
 # GitHub
