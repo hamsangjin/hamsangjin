@@ -18,7 +18,8 @@
 
 # 🏆Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hamsangjin)](https://solved.ac/hamsangjin)
- <img src="http://mazandi.herokuapp.com/api?handle=hamsangjin&theme=warm"/>
+
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=hamsangjin&theme=warm"/> -->
 
 ---
 
