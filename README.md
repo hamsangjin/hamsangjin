@@ -43,12 +43,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-<br>
+<!-- <br>
 
 ## ⭐️ Most Used Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsangjin&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=shell,c%23,visual%20basic%20.NET,ada,basic" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsangjin&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=shell,c%23,visual%20basic%20.NET,ada,basic" /> -->
 
-<br>
 <br>
   
 ## 📝 Velog
