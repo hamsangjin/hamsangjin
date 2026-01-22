@@ -8,8 +8,14 @@
 
 ## 💼 Career
 ### **STraffic**
-- S/W 개발자 | MaaS 사업 1팀 <br>
-- `2025. 02. 01 ~ ing` <br>
+- Backend Engineer  |  AX사업본부 <br>
+- `2026. 01. ~ 재직중` <br>
+
+<br>
+
+### **STraffic**
+- Backend Engineer  |  MaaS사업부 <br>
+- `2025. 02. ~ 2025. 12.` <br>
 
 <br>
 
